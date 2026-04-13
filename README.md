@@ -1,2 +1,2 @@
 # OpenAlpha-API
-An open source Open API for the Wolfram alpha calculator
+An open source OpenAPI for the Wolfram alpha calculator
